@@ -22,9 +22,9 @@ This profile is a record of my curiosity: labs and experiments that show how I i
 | ID | Project Name | Status | Technical Focus |
 | :--- | :--- | :--- | :--- |
 | `NET-01` | [🛰️ Sentinel Scanner](https://github.com/IsiphileM/sentinel-scanner) | `STABLE` | **Networking:** Stealth SYN Scanning & Packet Crafting |
-| `SEC-02` | [🛡️ Aegis Log Monitor]([https://github.com/IsiphileM/aegis-log-monitor](https://github.com/IsiphileM/Aegis-log-monitor)) | `BUILDING` | **SecOps:** Real-time Brute-Force Detection & Regex |
+| `SEC-02` | [🛡️ Aegis Log Monitor](https://github.com/IsiphileM/aegis-log-monitor) | `STABLE` | **SecOps:** Real-time Brute-Force Detection & Regex |
 | `FOR-03` | [🔍 Forensic Finance](https://github.com/IsiphileM/Forensic-Finance-Analyzer) | `STABLE` | **Forensics:** Data Anomaly Detection & Financial Auditing |
-| `LAB-04` | [🌐 Ghost-Net Lab](https://github.com/YOUR_USERNAME/ghost-net-topology) | `PLANNED` | **Infrastructure:** Secure VLAN & DMZ Architecture |
+| `LAB-04` | [🌐 Ghost-Net Lab](https://github.com/IsiphileM/Ghost-Net-Lab-IMIA) | `BUILDING` | **Infrastructure:** Secure VLAN & DMZ Architecture |
 
 ---
 
