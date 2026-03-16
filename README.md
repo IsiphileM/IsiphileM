@@ -25,6 +25,7 @@ This profile is a record of my curiosity: labs and experiments that show how I i
 | `SEC-02` | [🛡️ Aegis Log Monitor](https://github.com/IsiphileM/aegis-log-monitor) | `STABLE` | **SecOps:** Real-time Brute-Force Detection & Regex |
 | `FOR-03` | [🔍 Forensic Finance](https://github.com/IsiphileM/Forensic-Finance-Analyzer) | `STABLE` | **Forensics:** Data Anomaly Detection & Financial Auditing |
 | `LAB-04` | [🌐 Ghost-Net Lab](https://github.com/IsiphileM/Ghost-Net-Lab-IMIA) | `BUILDING` | **Infrastructure:** Secure VLAN & DMZ Architecture |
+| `LAB-05` | [🌐 NetAuto-Pilot Lab](https://github.com/IsiphileM/NetAuto-Pilot) | `STABLE` | **Infrastructure:** Multi-Vendor Integration (FortiOS & ArubaOS-CX) |
 
 ---
 
