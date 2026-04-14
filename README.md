@@ -9,9 +9,9 @@
 
 ## `PROFILE`
 
-I build systems, break them, watch them fail, and figure out why no one else notices. Mostly quietly. Sometimes loudly in my head.
+I design and build networked systems with a focus on reliability, structure, and performance. My work involves simulating and implementing enterprise-style network environments, analyzing traffic behavior, and developing tools that support network operations and troubleshooting.
 
-I completed my degree requirements in 2025 and will officially graduate in **May 2026**. I have a strong foundation in **Security Operations, Networks, and Incident Response**. My work spans endpoints, logs, and network traffic. I document everything carefully—so if something goes wrong, it's not just "broken," it's a **case study**.
+I completed my degree requirements in 2025 and will graduate in May 2026. My technical foundation is in networking, infrastructure design, and systems analysis with practical exposure to security concepts where they intersect with network reliability.
 
 This profile is a record of my curiosity: labs and experiments that show how I investigate and solve technical problems methodically.
 
@@ -19,25 +19,37 @@ This profile is a record of my curiosity: labs and experiments that show how I i
 
 ## `SYSTEM_INDEX (PROJECTS)`
 
+Netowrk Core (Primary Identity)
+
 | ID | Project Name | Status | Technical Focus |
 | :--- | :--- | :--- | :--- |
-| `NET-01` | [🛰️ Sentinel Scanner](https://github.com/IsiphileM/sentinel-scanner) | `STABLE` | **Networking:** Stealth SYN Scanning & Packet Crafting |
-| `SEC-02` | [🛡️ Aegis Log Monitor](https://github.com/IsiphileM/aegis-log-monitor) | `STABLE` | **SecOps:** Real-time Brute-Force Detection & Regex |
+| `LAB-01` | [🌐 Ghost-Net Lab](https://github.com/IsiphileM/Ghost-Net-Lab-IMIA) | `BUILDING` | **Infrastructure:** Secure VLAN & DMZ Architecture |
+| `LAB-02` | [🤖 NetAuto-Pilot Lab](https://github.com/IsiphileM/NetAuto-Pilot) | `STABLE` | **Infrastructure:** Multi-Vendor Integration (FortiOS & ArubaOS-CX) |
+
+Network Tools (Supporting Skills)
+| ID | Project Name | Status | Technical Focus |
+| :--- | :--- | :--- | :--- |
+| `SEC-03` | [🛡️ Aegis Log Monitor](https://github.com/IsiphileM/aegis-log-monitor) | `STABLE` | **SecOps:** Real-time Brute-Force Detection & Regex |
+| `NET-04` | [🛰️ Sentinel Scanner](https://github.com/IsiphileM/sentinel-scanner) | `STABLE` | **Networking:** Stealth SYN Scanning & Packet Crafting |
+
+Analytics / Exploration
+| ID | Project Name | Status | Technical Focus |
+| :--- | :--- | :--- | :--- |
 | `FOR-03` | [🔍 Forensic Finance](https://github.com/IsiphileM/Forensic-Finance-Analyzer) | `STABLE` | **Forensics:** Data Anomaly Detection & Financial Auditing |
-| `LAB-04` | [🌐 Ghost-Net Lab](https://github.com/IsiphileM/Ghost-Net-Lab-IMIA) | `BUILDING` | **Infrastructure:** Secure VLAN & DMZ Architecture |
-| `LAB-05` | [🤖 NetAuto-Pilot Lab](https://github.com/IsiphileM/NetAuto-Pilot) | `STABLE` | **Infrastructure:** Multi-Vendor Integration (FortiOS & ArubaOS-CX) |
+
+
 
 ---
 
 ## `DIRECTION`
 
-I am working toward roles that sit close to **operations, security, and analysis**, including:
+I am focused on roles in network engineering and infrastructure operations, including:
 
-- **SOC / Blue Team** (Security Operations)  
-- **Incident Analysis** and Response  
-- **Network** and Infrastructure Monitoring  
-- **Cybersecurity** and Defensive Engineering  
+- **Enterprise network design and administration**
+- **Network operations** (NOC environments)
+- **Infrastructure monitoring and troubleshooting**
+- **Systems and network automation**
 
-My long-term interests lean toward deeper investigation and response work, but I value strong operational fundamentals and adaptability across environments.
+I am particularly interested in building and maintaining scalable, reliable network systems across enterprise environments.
 
 ---
