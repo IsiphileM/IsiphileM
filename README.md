@@ -26,11 +26,13 @@ Netowrk Core (Primary Identity)
 | `LAB-01` | [🌐 Ghost-Net Lab](https://github.com/IsiphileM/Ghost-Net-Lab-IMIA) | `BUILDING` | **Infrastructure:** Secure VLAN & DMZ Architecture |
 | `LAB-02` | [🤖 NetAuto-Pilot Lab](https://github.com/IsiphileM/NetAuto-Pilot) | `STABLE` | **Infrastructure:** Multi-Vendor Integration (FortiOS & ArubaOS-CX) |
 
+
 Network Tools (Supporting Skills)
 | ID | Project Name | Status | Technical Focus |
 | :--- | :--- | :--- | :--- |
 | `SEC-03` | [🛡️ Aegis Log Monitor](https://github.com/IsiphileM/aegis-log-monitor) | `STABLE` | **SecOps:** Real-time Brute-Force Detection & Regex |
 | `NET-04` | [🛰️ Sentinel Scanner](https://github.com/IsiphileM/sentinel-scanner) | `STABLE` | **Networking:** Stealth SYN Scanning & Packet Crafting |
+
 
 Analytics / Exploration
 | ID | Project Name | Status | Technical Focus |
