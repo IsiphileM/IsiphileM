@@ -35,7 +35,7 @@ Network Tools (Supporting Skills)
 Analytics / Exploration
 | ID | Project Name | Status | Technical Focus |
 | :--- | :--- | :--- | :--- |
-| `FOR-03` | [🔍 Forensic Finance](https://github.com/IsiphileM/Forensic-Finance-Analyzer) | `STABLE` | **Forensics:** Data Anomaly Detection & Financial Auditing |
+| `FOR-05` | [🔍 Forensic Finance](https://github.com/IsiphileM/Forensic-Finance-Analyzer) | `STABLE` | **Forensics:** Data Anomaly Detection & Financial Auditing |
 
 
 
