@@ -25,7 +25,7 @@ Netowrk Core (Primary Identity)
 | :--- | :--- | :--- | :--- |
 | `LAB-01` | [🌐 Ghost-Net Lab](https://github.com/IsiphileM/Ghost-Net-Lab-IMIA) | `BUILDING` | **Infrastructure:** Secure VLAN & DMZ Architecture |
 | `LAB-02` | [🤖 NetAuto-Pilot Lab](https://github.com/IsiphileM/NetAuto-Pilot) | `STABLE` | **Infrastructure:** Multi-Vendor Integration (FortiOS & ArubaOS-CX) |
-| `LAB-03` | [🤖 SME IoT-Security-Group-Project](https://github.com/IsiphileM/SME--IoT-Security-Project) | `STABLE` | **Infrastructure:** Segmented enterprise network with security controls, specifically for an SME IoT environment | Cisco PT
+| `LAB-03` | [🏢 SME IoT-Security-Group-Project](https://github.com/IsiphileM/SME--IoT-Security-Project) | `STABLE` | **Infrastructure:** Segmented enterprise network with security controls, specifically for an SME IoT environment | Cisco PT
 
 
 Network Tools (Supporting Skills)
