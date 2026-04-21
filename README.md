@@ -25,19 +25,20 @@ Netowrk Core (Primary Identity)
 | :--- | :--- | :--- | :--- |
 | `LAB-01` | [🌐 Ghost-Net Lab](https://github.com/IsiphileM/Ghost-Net-Lab-IMIA) | `BUILDING` | **Infrastructure:** Secure VLAN & DMZ Architecture |
 | `LAB-02` | [🤖 NetAuto-Pilot Lab](https://github.com/IsiphileM/NetAuto-Pilot) | `STABLE` | **Infrastructure:** Multi-Vendor Integration (FortiOS & ArubaOS-CX) |
+| `LAB-03` | [🤖 SME IoT-Security-Group-Project](https://github.com/IsiphileM/SME--IoT-Security-Project) | `STABLE` | **Infrastructure:** Segmented enterprise network with security controls, specifically for an SME IoT environment | Cisco PT
 
 
 Network Tools (Supporting Skills)
 | ID | Project Name | Status | Technical Focus |
 | :--- | :--- | :--- | :--- |
-| `SEC-03` | [🛡️ Aegis Log Monitor](https://github.com/IsiphileM/aegis-log-monitor) | `STABLE` | **SecOps:** Real-time Brute-Force Detection & Regex |
-| `NET-04` | [🛰️ Sentinel Scanner](https://github.com/IsiphileM/sentinel-scanner) | `STABLE` | **Networking:** Stealth SYN Scanning & Packet Crafting |
+| `SEC-01` | [🛡️ Aegis Log Monitor](https://github.com/IsiphileM/aegis-log-monitor) | `STABLE` | **SecOps:** Real-time Brute-Force Detection & Regex |
+| `NET-02` | [🛰️ Sentinel Scanner](https://github.com/IsiphileM/sentinel-scanner) | `STABLE` | **Networking:** Stealth SYN Scanning & Packet Crafting |
 
 
 Analytics / Exploration
 | ID | Project Name | Status | Technical Focus |
 | :--- | :--- | :--- | :--- |
-| `FOR-05` | [🔍 Forensic Finance](https://github.com/IsiphileM/Forensic-Finance-Analyzer) | `STABLE` | **Forensics:** Data Anomaly Detection & Financial Auditing |
+| `FOR-01` | [🔍 Forensic Finance](https://github.com/IsiphileM/Forensic-Finance-Analyzer) | `STABLE` | **Forensics:** Data Anomaly Detection & Financial Auditing |
 
 
 
