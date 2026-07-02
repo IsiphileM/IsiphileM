@@ -11,7 +11,7 @@
 
 I design and build networked systems with a focus on reliability, structure, and performance. My work involves simulating and implementing enterprise-style network environments, analyzing traffic behavior, and developing tools that support network operations and troubleshooting.
 
-I completed my degree requirements in 2025 and will graduate in May 2026. My technical foundation is in networking, infrastructure design, and systems analysis with practical exposure to security concepts where they intersect with network reliability.
+I completed my degree requirements in 2025 thus graduated in May 2026. My technical foundation is in networking, infrastructure design, and systems analysis with practical exposure to security concepts where they intersect with network reliability.
 
 This profile is a record of my curiosity: labs and experiments that show how I investigate and solve technical problems methodically.
 
