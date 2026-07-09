@@ -1,4 +1,4 @@
-# Welcome to the Geek side. I'm Isiphile Maqhashu
+# Welcome to the Geek side, we have π. I'm Isiphile Maqhashu
 
 <div align="left">
   <a href="https://www.linkedin.com/in/isiphilemaqhashu">
