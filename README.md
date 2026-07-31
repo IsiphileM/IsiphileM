@@ -41,6 +41,7 @@ Analytics / Exploration
 | ID | Project Name | Status | Technical Focus |
 | :--- | :--- | :--- | :--- |
 | `FOR-01` | [🔍 Forensic Finance](https://github.com/IsiphileM/Forensic-Finance-Analyzer) | `STABLE` | **Forensics:** Data Anomaly Detection & Financial Auditing |
+|`ABC-01` | [⛓️ TrustFabric](https://github.com/IsiphileM/TrustFabric) | `BUILDING` | **Blockchain:** trust and integrity layer |
 
 
 
